@@ -23,3 +23,11 @@ This project leverages **machine learning** to predict crop yield (production pe
 🔹 **Joblib** (Model serialization for deployment)  
 
 ## 📂 Project Structure  
+📁 Crop-Yield-Prediction │── 📂 data/ # Dataset and preprocessing scripts
+│── 📂 models/ # Trained model & encoders (pkl files)
+│── 📂 static/ # CSS & JS files for UI
+│── 📂 templates/ # HTML files for Flask UI
+│── 📝 app.py # Flask application
+│── 📝 model_training.ipynb # Jupyter Notebook for training models
+│── 📝 requirements.txt # Dependencies
+│── 📝 README.md # Project Documentation
